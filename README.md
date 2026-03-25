@@ -52,10 +52,9 @@ ylabel('Magnitude ');
 title(' Frequency Response of Chebyshev IIR LPF');
 ```
 # CALCULATION:
-![Chebyshev manual cal 1](https://github.com/user-attachments/assets/78ebe430-a9dd-4bd9-acd5-40b498320cfc)
-![Chebyshev manual cal 2](https://github.com/user-attachments/assets/47de66b2-a223-4b36-805d-295bf73e5196)
-![chebysev manual cal 3](https://github.com/user-attachments/assets/9437ff14-2f69-4df4-a74d-1322e10eeb57)
-![Chebysev manual cal 4](https://github.com/user-attachments/assets/c42c2659-abd6-4b59-adff-f67b255bebb6)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/82d9327b-2f03-49d4-930c-b55747b051d7" />
+
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/de1790e7-c125-4aeb-956c-b1fde704469c" />
 
 # OUTPUT: 
 CONSOLE WINDOW
